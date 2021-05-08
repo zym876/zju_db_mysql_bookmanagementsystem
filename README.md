@@ -1,2 +1,3 @@
 # zju_db_mysql_bookmanagementsystem
-留个坑
+c++ mysql c api 图形界面懒得写了
+
